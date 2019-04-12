@@ -16,10 +16,15 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 ## Contenidos
 
 - **Unidad 1:** Talleres de resolución de problemas de clasificación automática
-	- [Notebook 1](unidad1/Notebook_1.ipynb): Introducción a Regresión Lineal y Regresión Logística
-	- [Slides](https://docs.google.com/presentation/d/11O3ud6ywHuaro6OemhyeH07nuJtdc4ybMuTJicnMnm8/edit?usp=sharing), [Notebook 2-a](unidad1/Notebook_2_a.ipynb), [Notebook 2-b](unidad1/Notebook_2_b.ipynb): ¿Cómo estimar los paramétros de los modelos de Regresión Lineal y Logística?
-	- Algoritmos "clásicos" de Machine Learning: k-Nearest Neighbors, Árbol de Decisión, etc.
+	- Introducción a Regresión Lineal y Regresión Logística: [[Notebook 1]](unidad1/Notebook_1.ipynb): 
+	- ¿Cómo estimar los paramétros de los modelos de Regresión Lineal y Logística?: [[Slides]](https://docs.google.com/presentation/d/11O3ud6ywHuaro6OemhyeH07nuJtdc4ybMuTJicnMnm8/edit?usp=sharing), [[Notebook 2-a]](unidad1/Notebook_2_a.ipynb), [[Notebook 2-b]](unidad1/Notebook_2_b.ipynb): 
+	- Introducción a algorítmos de árboles de decisión: [[Notebook 3-a]](unidad1/Notebook_3_a.ipynb), [[Notebook 3-b]](unidad1/Notebook_3_b.ipynb)
+	- Introducción a algoritmos de clustering (KMeans): [[Notebook 4]](unidad1/Notebook_4.ipynb)
 	- Técnicas de _Ensemble Learning_
+	- Otros datasets para experimentar:
+		- Sloan Digital Sky Survey DR14: Clasificación de estrellas, galaxias y cuásares [[dataset]](https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey)
+		- FIFA 19 complete player dataset: Clasificación o Clustering de jugadores [[dataset]](https://www.kaggle.com/karangadiya/fifa19)
+		- Graduate admision: Predecir la admisión de estudiantes [[dataset]](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 - **Unidad 2:** Talleres de análisis de datos textuales
 	- ¿Qué es el análisis de textos?: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking (spaCy)
